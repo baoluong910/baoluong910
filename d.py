@@ -6,3 +6,4 @@ def cir(x):
         left(360/x)
     
 cir(100)
+#bao dep trai
